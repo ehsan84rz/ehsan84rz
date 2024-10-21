@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehsan84rz
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DRF
 
 <!---
 ehsan84rz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
